@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/anag0at/Twitch-Res/refs/heads/main/IMG_0275.png" />
+<img width="512" height="512" alt="IMG_0275" src="https://github.com/user-attachments/assets/682336b9-ebd5-4e2e-b720-606624310c08" />
   
   <h2>Ana!</h2>
   <blockquote>highly caffeinated, random cat/goat thing who somehow learned how to use a computer and do cybersec stuff</blockquote>
