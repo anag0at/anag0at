@@ -1,5 +1,5 @@
 <div align="center">
-<img width="512" height="512" alt="IMG_0275" src="https://github.com/user-attachments/assets/682336b9-ebd5-4e2e-b720-606624310c08" />
+<img width="256" height="256" alt="IMG_0275" src="https://github.com/user-attachments/assets/682336b9-ebd5-4e2e-b720-606624310c08" />
   
   <h2>hi, I'm AnaGoat 🌸</h2>
   <blockquote>A highly caffeinated goat × snow leopard who somehow learned how to use a computer and do cybersec stuff.</blockquote>
