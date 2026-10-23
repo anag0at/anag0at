@@ -6,9 +6,9 @@
 
 I break things for a living and keep other things up:
 
-- **[AnaGoat Labs](https://anagoat.com/labs)** — offensive and defensive security: pentests and audits, purple teaming, incident response, vulnerability management.
-- **[AnaGoat Cloud](https://anagoat.cloud)** — Minecraft servers, hosted and looked after by someone who attacks systems for a living.
-- **[Streams](https://twitch.tv/anagoaten)** — in English, mostly from VRChat.
+- **[AnaGoat Labs](https://anagoat.com/labs)** - offensive and defensive security: pentests and audits, purple teaming, incident response, vulnerability management.
+- **[AnaGoat Cloud](https://anagoat.cloud)** - Minecraft servers, hosted and looked after by someone who attacks systems for a living.
+- **[Streams](https://twitch.tv/anagoaten)** - in English, mostly from VRChat.
 
 ## What you'll find here
 
